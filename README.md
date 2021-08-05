@@ -1,4 +1,4 @@
-# msw_timesync
+# lib_timesync
 
 ## Install dependencies
 ### MQTT-broker
